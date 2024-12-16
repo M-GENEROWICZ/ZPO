@@ -7,9 +7,14 @@ include_directories(
 )
 
 set(SOURCE_FILES
+        src/factory.cpp
+        src/helpers.cpp
+        src/nodes.cpp
         src/package.cpp
+        src/reports.cpp
+        src/simulation.cpp
         src/storage_types.cpp
-        src/tests.cpp
+
 )
 
 set(SOURCES_FILES_TESTS

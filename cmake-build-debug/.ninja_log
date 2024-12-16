@@ -1,6 +1,6 @@
 # ninja log v5
 4	51	1734374637412914132	CMakeFiles/projekt__test.dir/src/package.cpp.o	1d596cf31ad5e0b3
-4	704	1734374638066287090	CMakeFiles/projekt__test.dir/test/main_test.cpp.o	11eaf16b588124b8
+10	422	1734376482293667169	CMakeFiles/projekt__test.dir/test/main_test.cpp.o	11eaf16b588124b8
 14	114	1734374748581994000	lib/libgtest.a	9f0c7899095fa082
 0	36	1734374569663253996	CMakeFiles/projekt__debug.dir/src/package.cpp.o	ae96d7611bfdc228
 0	30	1734374569656785553	CMakeFiles/projekt__debug.dir/src/storage_types.cpp.o	b3dbd00793ef9aa1
@@ -9,5 +9,3 @@
 4	1215	1734374638575184934	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	dac166fcae6740ea
 1	276	1734374569902030440	CMakeFiles/projekt__debug.dir/main.cpp.o	3b8e3d0749879efa
 51	2035	1734374639394289048	googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	e6bd83d24bd561f0
-9	676	1734376431080172431	CMakeFiles/projekt__test.dir/test/main_test.cpp.o	11eaf16b588124b8
-10	422	1734376482293667169	CMakeFiles/projekt__test.dir/test/main_test.cpp.o	11eaf16b588124b8
