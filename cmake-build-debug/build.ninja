@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/cmake-build-debug/
+cmake_ninja_workdir = /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target projekt__debug
 
@@ -49,31 +49,31 @@ cmake_ninja_workdir = /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/
 
 build cmake_object_order_depends_target_projekt__debug: phony || CMakeFiles/projekt__debug.dir
 
-build CMakeFiles/projekt__debug.dir/src/package.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/src/package.cpp || cmake_object_order_depends_target_projekt__debug
+build CMakeFiles/projekt__debug.dir/src/package.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/package.cpp || cmake_object_order_depends_target_projekt__debug
   DEP_FILE = CMakeFiles/projekt__debug.dir/src/package.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
-  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/include"
+  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include"
   OBJECT_DIR = CMakeFiles/projekt__debug.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__debug.dir/src
 
-build CMakeFiles/projekt__debug.dir/src/storage_types.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/src/storage_types.cpp || cmake_object_order_depends_target_projekt__debug
+build CMakeFiles/projekt__debug.dir/src/storage_types.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/storage_types.cpp || cmake_object_order_depends_target_projekt__debug
   DEP_FILE = CMakeFiles/projekt__debug.dir/src/storage_types.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
-  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/include"
+  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include"
   OBJECT_DIR = CMakeFiles/projekt__debug.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__debug.dir/src
 
-build CMakeFiles/projekt__debug.dir/src/tests.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/src/tests.cpp || cmake_object_order_depends_target_projekt__debug
+build CMakeFiles/projekt__debug.dir/src/tests.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/tests.cpp || cmake_object_order_depends_target_projekt__debug
   DEP_FILE = CMakeFiles/projekt__debug.dir/src/tests.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
-  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/include"
+  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include"
   OBJECT_DIR = CMakeFiles/projekt__debug.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__debug.dir/src
 
-build CMakeFiles/projekt__debug.dir/main.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/main.cpp || cmake_object_order_depends_target_projekt__debug
+build CMakeFiles/projekt__debug.dir/main.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/main.cpp || cmake_object_order_depends_target_projekt__debug
   DEP_FILE = CMakeFiles/projekt__debug.dir/main.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
-  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/include"
+  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include"
   OBJECT_DIR = CMakeFiles/projekt__debug.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__debug.dir
 
@@ -103,38 +103,38 @@ build projekt__debug: CXX_EXECUTABLE_LINKER__projekt__debug_Debug CMakeFiles/pro
 
 build cmake_object_order_depends_target_projekt__test: phony || cmake_object_order_depends_target_gmock cmake_object_order_depends_target_gtest
 
-build CMakeFiles/projekt__test.dir/src/package.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/src/package.cpp || cmake_object_order_depends_target_projekt__test
+build CMakeFiles/projekt__test.dir/src/package.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/package.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/src/package.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
-  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest"
+  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/src
 
-build CMakeFiles/projekt__test.dir/src/storage_types.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/src/storage_types.cpp || cmake_object_order_depends_target_projekt__test
+build CMakeFiles/projekt__test.dir/src/storage_types.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/storage_types.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/src/storage_types.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
-  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest"
+  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/src
 
-build CMakeFiles/projekt__test.dir/src/tests.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/src/tests.cpp || cmake_object_order_depends_target_projekt__test
+build CMakeFiles/projekt__test.dir/src/tests.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/tests.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/src/tests.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
-  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest"
+  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/src
 
-build CMakeFiles/projekt__test.dir/test/tests.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/test/tests.cpp || cmake_object_order_depends_target_projekt__test
+build CMakeFiles/projekt__test.dir/test/tests.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/test/tests.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/test/tests.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
-  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest"
+  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/test
 
-build CMakeFiles/projekt__test.dir/test/main_test.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/test/main_test.cpp || cmake_object_order_depends_target_projekt__test
+build CMakeFiles/projekt__test.dir/test/main_test.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/test/main_test.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/test/main_test.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
-  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest"
+  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/test
 
@@ -161,7 +161,7 @@ build projekt__test: CXX_EXECUTABLE_LINKER__projekt__test_Debug CMakeFiles/proje
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -172,7 +172,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt" -B"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug"
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO" -B"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -190,7 +190,7 @@ build list_install_components: phony
 # Utility command for install
 
 build CMakeFiles/install.util: CUSTOM_COMMAND all
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -P cmake_install.cmake
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -P cmake_install.cmake
   DESC = Install the project...
   pool = console
   restat = 1
@@ -202,7 +202,7 @@ build install: phony CMakeFiles/install.util
 # Utility command for install/local
 
 build CMakeFiles/install/local.util: CUSTOM_COMMAND all
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -214,7 +214,7 @@ build install/local: phony CMakeFiles/install/local.util
 # Utility command for install/strip
 
 build CMakeFiles/install/strip.util: CUSTOM_COMMAND all
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -223,7 +223,7 @@ build install/strip: phony CMakeFiles/install/strip.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/SetCommonConfig.cmake
+# /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/SetCommonConfig.cmake
 # =============================================================================
 
 
@@ -231,7 +231,7 @@ build install/strip: phony CMakeFiles/install/strip.util
 # Utility command for edit_cache
 
 build googletest-master/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -242,7 +242,7 @@ build googletest-master/edit_cache: phony googletest-master/CMakeFiles/edit_cach
 # Utility command for rebuild_cache
 
 build googletest-master/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt" -B"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug"
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO" -B"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -260,7 +260,7 @@ build googletest-master/list_install_components: phony
 # Utility command for install
 
 build googletest-master/CMakeFiles/install.util: CUSTOM_COMMAND googletest-master/all
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -P cmake_install.cmake
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -P cmake_install.cmake
   DESC = Install the project...
   pool = console
   restat = 1
@@ -272,7 +272,7 @@ build googletest-master/install: phony googletest-master/CMakeFiles/install.util
 # Utility command for install/local
 
 build googletest-master/CMakeFiles/install/local.util: CUSTOM_COMMAND googletest-master/all
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -284,7 +284,7 @@ build googletest-master/install/local: phony googletest-master/CMakeFiles/instal
 # Utility command for install/strip
 
 build googletest-master/CMakeFiles/install/strip.util: CUSTOM_COMMAND googletest-master/all
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -293,7 +293,7 @@ build googletest-master/install/strip: phony googletest-master/CMakeFiles/instal
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/CMakeLists.txt
+# /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -305,10 +305,10 @@ build googletest-master/install/strip: phony googletest-master/CMakeFiles/instal
 
 build cmake_object_order_depends_target_gmock: phony || cmake_object_order_depends_target_gtest
 
-build googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: CXX_COMPILER__gmock_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googlemock/src/gmock-all.cc || cmake_object_order_depends_target_gmock
+build googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: CXX_COMPILER__gmock_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googlemock/src/gmock-all.cc || cmake_object_order_depends_target_gmock
   DEP_FILE = googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o.d
   FLAGS = -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
-  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/include" -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock/include" -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest"
+  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = googletest-master/googlemock/CMakeFiles/gmock.dir
   OBJECT_FILE_DIR = googletest-master/googlemock/CMakeFiles/gmock.dir/src
 
@@ -338,10 +338,10 @@ build lib/libgmock.a: CXX_STATIC_LIBRARY_LINKER__gmock_Debug googletest-master/g
 
 build cmake_object_order_depends_target_gmock_main: phony || cmake_object_order_depends_target_gmock cmake_object_order_depends_target_gtest
 
-build googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o: CXX_COMPILER__gmock_main_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googlemock/src/gmock_main.cc || cmake_object_order_depends_target_gmock_main
+build googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o: CXX_COMPILER__gmock_main_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googlemock/src/gmock_main.cc || cmake_object_order_depends_target_gmock_main
   DEP_FILE = googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o.d
   FLAGS = -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
-  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest"
+  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = googletest-master/googlemock/CMakeFiles/gmock_main.dir
   OBJECT_FILE_DIR = googletest-master/googlemock/CMakeFiles/gmock_main.dir/src
 
@@ -367,7 +367,7 @@ build lib/libgmock_main.a: CXX_STATIC_LIBRARY_LINKER__gmock_main_Debug googletes
 # Utility command for edit_cache
 
 build googletest-master/googlemock/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master/googlemock" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master/googlemock" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -378,7 +378,7 @@ build googletest-master/googlemock/edit_cache: phony googletest-master/googlemoc
 # Utility command for rebuild_cache
 
 build googletest-master/googlemock/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master/googlemock" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt" -B"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug"
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master/googlemock" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO" -B"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -396,7 +396,7 @@ build googletest-master/googlemock/list_install_components: phony
 # Utility command for install
 
 build googletest-master/googlemock/CMakeFiles/install.util: CUSTOM_COMMAND googletest-master/googlemock/all
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master/googlemock" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -P cmake_install.cmake
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master/googlemock" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -P cmake_install.cmake
   DESC = Install the project...
   pool = console
   restat = 1
@@ -408,7 +408,7 @@ build googletest-master/googlemock/install: phony googletest-master/googlemock/C
 # Utility command for install/local
 
 build googletest-master/googlemock/CMakeFiles/install/local.util: CUSTOM_COMMAND googletest-master/googlemock/all
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master/googlemock" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master/googlemock" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -420,7 +420,7 @@ build googletest-master/googlemock/install/local: phony googletest-master/google
 # Utility command for install/strip
 
 build googletest-master/googlemock/CMakeFiles/install/strip.util: CUSTOM_COMMAND googletest-master/googlemock/all
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master/googlemock" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master/googlemock" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -429,7 +429,7 @@ build googletest-master/googlemock/install/strip: phony googletest-master/google
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googlemock/CMakeLists.txt
+# /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -441,10 +441,10 @@ build googletest-master/googlemock/install/strip: phony googletest-master/google
 
 build cmake_object_order_depends_target_gtest: phony || googletest-master/googletest/CMakeFiles/gtest.dir
 
-build googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: CXX_COMPILER__gtest_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googletest/src/gtest-all.cc || cmake_object_order_depends_target_gtest
+build googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: CXX_COMPILER__gtest_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/src/gtest-all.cc || cmake_object_order_depends_target_gtest
   DEP_FILE = googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o.d
   FLAGS = -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
-  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/include" -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest/include" -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest"
+  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = googletest-master/googletest/CMakeFiles/gtest.dir
   OBJECT_FILE_DIR = googletest-master/googletest/CMakeFiles/gtest.dir/src
 
@@ -474,10 +474,10 @@ build lib/libgtest.a: CXX_STATIC_LIBRARY_LINKER__gtest_Debug googletest-master/g
 
 build cmake_object_order_depends_target_gtest_main: phony || cmake_object_order_depends_target_gtest
 
-build googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o: CXX_COMPILER__gtest_main_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googletest/src/gtest_main.cc || cmake_object_order_depends_target_gtest_main
+build googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o: CXX_COMPILER__gtest_main_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/src/gtest_main.cc || cmake_object_order_depends_target_gtest_main
   DEP_FILE = googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o.d
   FLAGS = -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
-  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/googletest-master/googletest"
+  INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = googletest-master/googletest/CMakeFiles/gtest_main.dir
   OBJECT_FILE_DIR = googletest-master/googletest/CMakeFiles/gtest_main.dir/src
 
@@ -503,7 +503,7 @@ build lib/libgtest_main.a: CXX_STATIC_LIBRARY_LINKER__gtest_main_Debug googletes
 # Utility command for edit_cache
 
 build googletest-master/googletest/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master/googletest" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master/googletest" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -514,7 +514,7 @@ build googletest-master/googletest/edit_cache: phony googletest-master/googletes
 # Utility command for rebuild_cache
 
 build googletest-master/googletest/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master/googletest" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt" -B"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug"
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master/googletest" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO" -B"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -532,7 +532,7 @@ build googletest-master/googletest/list_install_components: phony
 # Utility command for install
 
 build googletest-master/googletest/CMakeFiles/install.util: CUSTOM_COMMAND googletest-master/googletest/all
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master/googletest" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -P cmake_install.cmake
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master/googletest" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -P cmake_install.cmake
   DESC = Install the project...
   pool = console
   restat = 1
@@ -544,7 +544,7 @@ build googletest-master/googletest/install: phony googletest-master/googletest/C
 # Utility command for install/local
 
 build googletest-master/googletest/CMakeFiles/install/local.util: CUSTOM_COMMAND googletest-master/googletest/all
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master/googletest" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master/googletest" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -556,7 +556,7 @@ build googletest-master/googletest/install/local: phony googletest-master/google
 # Utility command for install/strip
 
 build googletest-master/googletest/CMakeFiles/install/strip.util: CUSTOM_COMMAND googletest-master/googletest/all
-  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master/googletest" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+  COMMAND = cd "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master/googletest" && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -588,28 +588,28 @@ build libgtest_main.a: phony lib/libgtest_main.a
 # =============================================================================
 
 #############################################
-# Folder: /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug
+# Folder: /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug
 
 build all: phony projekt__debug projekt__test googletest-master/all
 
 # =============================================================================
 
 #############################################
-# Folder: /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master
+# Folder: /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master
 
 build googletest-master/all: phony googletest-master/googlemock/all
 
 # =============================================================================
 
 #############################################
-# Folder: /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master/googlemock
+# Folder: /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master/googlemock
 
 build googletest-master/googlemock/all: phony lib/libgmock.a lib/libgmock_main.a googletest-master/googletest/all
 
 # =============================================================================
 
 #############################################
-# Folder: /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master/googletest
+# Folder: /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master/googletest
 
 build googletest-master/googletest/all: phony lib/libgtest.a lib/libgtest_main.a
 
@@ -620,14 +620,14 @@ build googletest-master/googletest/all: phony lib/libgtest.a lib/libgtest_main.a
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDependentOption.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckIncludeFile.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckLibraryExists.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageMessage.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPython/Support.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPython3.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindThreads.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/GNUInstallDirs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/UnixPaths.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/SetCommonConfig.cmake /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googlemock/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googlemock/cmake/gmock.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googlemock/cmake/gmock_main.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googletest/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googletest/cmake/Config.cmake.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googletest/cmake/gtest.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googletest/cmake/gtest_main.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googletest/cmake/internal_utils.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDependentOption.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckIncludeFile.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckLibraryExists.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageMessage.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPython/Support.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPython3.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindThreads.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/GNUInstallDirs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/UnixPaths.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/SetCommonConfig.cmake /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googlemock/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googlemock/cmake/gmock.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googlemock/cmake/gmock_main.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/cmake/Config.cmake.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/cmake/gtest.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/cmake/gtest_main.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/cmake/internal_utils.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDependentOption.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckIncludeFile.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckLibraryExists.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageMessage.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPython/Support.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPython3.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindThreads.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/GNUInstallDirs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/UnixPaths.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/SetCommonConfig.cmake /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googlemock/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googlemock/cmake/gmock.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googlemock/cmake/gmock_main.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googletest/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googletest/cmake/Config.cmake.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googletest/cmake/gtest.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googletest/cmake/gtest_main.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/projekt/googletest-master/googletest/cmake/internal_utils.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake: phony
+build /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDependentOption.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckIncludeFile.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckLibraryExists.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageMessage.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPython/Support.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPython3.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindThreads.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/GNUInstallDirs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/UnixPaths.cmake /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/SetCommonConfig.cmake /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googlemock/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googlemock/cmake/gmock.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googlemock/cmake/gmock_main.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/CMakeLists.txt /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/cmake/Config.cmake.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/cmake/gtest.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/cmake/gtest_main.pc.in /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/cmake/internal_utils.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake: phony
 
 
 #############################################

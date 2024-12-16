@@ -1,4 +1,4 @@
-# Install script for directory: /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt
+# Install script for directory: /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/googletest-master/cmake_install.cmake")
+  include("/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/googletest-master/cmake_install.cmake")
 
 endif()
 
@@ -51,5 +51,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/projekt/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
