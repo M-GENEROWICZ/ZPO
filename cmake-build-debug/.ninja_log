@@ -1,11 +1,21 @@
 # ninja log v5
-4	51	1734374637412914132	CMakeFiles/projekt__test.dir/src/package.cpp.o	1d596cf31ad5e0b3
+6	313	1734430269452845494	CMakeFiles/projekt__test.dir/src/package.cpp.o	1d596cf31ad5e0b3
+14	203	1734430250844172022	CMakeFiles/projekt__test.dir/src/simulation.cpp.o	fed49c66e9493632
 10	422	1734376482293667169	CMakeFiles/projekt__test.dir/test/main_test.cpp.o	11eaf16b588124b8
 14	114	1734374748581994000	lib/libgtest.a	9f0c7899095fa082
 0	36	1734374569663253996	CMakeFiles/projekt__debug.dir/src/package.cpp.o	ae96d7611bfdc228
 0	30	1734374569656785553	CMakeFiles/projekt__debug.dir/src/storage_types.cpp.o	b3dbd00793ef9aa1
-4	51	1734374637412914216	CMakeFiles/projekt__test.dir/src/storage_types.cpp.o	c4ccbbc0d808aecf
-114	159	1734374748626703000	lib/libgmock.a	e6fe26c44a24f6f9
-4	1215	1734374638575184934	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	dac166fcae6740ea
+530	573	1734430429421054857	projekt__test	f4fe900fbfa2bda
+202	230	1734430250874121795	CMakeFiles/projekt__test.dir/src/storage_types.cpp.o	c4ccbbc0d808aecf
+14	203	1734430250844179022	CMakeFiles/projekt__test.dir/src/reports.cpp.o	d6c3928b14fe0673
 1	276	1734374569902030440	CMakeFiles/projekt__debug.dir/main.cpp.o	3b8e3d0749879efa
+4	1215	1734374638575184934	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	dac166fcae6740ea
+12	202	1734430250844167813	CMakeFiles/projekt__test.dir/src/factory.cpp.o	ea670694943db5ab
+114	159	1734374748626703000	lib/libgmock.a	e6fe26c44a24f6f9
+14	202	1734430250844177563	CMakeFiles/projekt__test.dir/src/nodes.cpp.o	4ca20d2bf5705944
+14	203	1734430250844224730	CMakeFiles/projekt__test.dir/src/helpers.cpp.o	8c3bec3383a6661f
 51	2035	1734374639394289048	googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	e6bd83d24bd561f0
+8	466	1734430451441419812	CMakeFiles/projekt__test.dir/test/tests.cpp.o	f2c8b55f95412aa
+5	611	1734430541594774350	CMakeFiles/projekt__test.dir/test/main_gtest.cpp.o	c80b15aec43067b5
+5	477	1734430558023088893	CMakeFiles/projekt__test.dir/test/tests.cpp.o	f2c8b55f95412aa
+477	521	1734430558069229679	projekt__test	4e233ef0cf30ff83

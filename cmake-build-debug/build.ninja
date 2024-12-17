@@ -187,8 +187,8 @@ build CMakeFiles/projekt__test.dir/test/tests.cpp.o: CXX_COMPILER__projekt__test
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/test
 
-build CMakeFiles/projekt__test.dir/test/main_test.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/test/main_test.cpp || cmake_object_order_depends_target_projekt__test
-  DEP_FILE = CMakeFiles/projekt__test.dir/test/main_test.cpp.o.d
+build CMakeFiles/projekt__test.dir/test/main_gtest.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/test/main_gtest.cpp || cmake_object_order_depends_target_projekt__test
+  DEP_FILE = CMakeFiles/projekt__test.dir/test/main_gtest.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
@@ -202,7 +202,7 @@ build CMakeFiles/projekt__test.dir/test/main_test.cpp.o: CXX_COMPILER__projekt__
 #############################################
 # Link the executable projekt__test
 
-build projekt__test: CXX_EXECUTABLE_LINKER__projekt__test_Debug CMakeFiles/projekt__test.dir/src/factory.cpp.o CMakeFiles/projekt__test.dir/src/helpers.cpp.o CMakeFiles/projekt__test.dir/src/nodes.cpp.o CMakeFiles/projekt__test.dir/src/package.cpp.o CMakeFiles/projekt__test.dir/src/reports.cpp.o CMakeFiles/projekt__test.dir/src/simulation.cpp.o CMakeFiles/projekt__test.dir/src/storage_types.cpp.o CMakeFiles/projekt__test.dir/test/tests.cpp.o CMakeFiles/projekt__test.dir/test/main_test.cpp.o | lib/libgmock.a lib/libgtest.a || lib/libgmock.a lib/libgtest.a
+build projekt__test: CXX_EXECUTABLE_LINKER__projekt__test_Debug CMakeFiles/projekt__test.dir/src/factory.cpp.o CMakeFiles/projekt__test.dir/src/helpers.cpp.o CMakeFiles/projekt__test.dir/src/nodes.cpp.o CMakeFiles/projekt__test.dir/src/package.cpp.o CMakeFiles/projekt__test.dir/src/reports.cpp.o CMakeFiles/projekt__test.dir/src/simulation.cpp.o CMakeFiles/projekt__test.dir/src/storage_types.cpp.o CMakeFiles/projekt__test.dir/test/tests.cpp.o CMakeFiles/projekt__test.dir/test/main_gtest.cpp.o | lib/libgmock.a lib/libgtest.a || lib/libgmock.a lib/libgtest.a
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
   LINK_FLAGS = -fsanitize=address
   LINK_LIBRARIES = lib/libgmock.a  lib/libgtest.a

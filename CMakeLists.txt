@@ -19,7 +19,7 @@ set(SOURCE_FILES
 
 set(SOURCES_FILES_TESTS
         test/tests.cpp
-        test/main_test.cpp
+        test/main_gtest.cpp
         )
 
 include(SetCommonConfig.cmake)
