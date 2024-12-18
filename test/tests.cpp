@@ -1,12 +1,12 @@
 #include <gtest/gtest.h>
-#include "package.hpp"
+#include "storage_types.hpp"
 
 TEST(PackageTest, IsAssignedIdLowest) {
     // przydzielanie ID o jeden większych -- utworzenie dwóch obiektów pod rząd
 
     Package p1;
     Package p2;
-
+    std::cout <<p2.get_id();
     EXPECT_EQ(p1.get_id(), 1);
     EXPECT_EQ(p2.get_id(), 2);
 }

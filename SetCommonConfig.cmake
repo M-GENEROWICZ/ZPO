@@ -7,7 +7,7 @@ set(CMAKE_C_STANDARD 11)  # dostępne wartości: 90, 99, 11
 # Ustaw standard języka C++.
 set(CMAKE_CXX_STANDARD 17)
 
-add_compile_options(-Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -Wno-multichar)
+add_compile_options(-Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field )
 
 # Skorzystaj z narzędzia AddressSanitizer (pozwalającego wykryć m.in. błędy pisania
 # po nie-swojej pamięci statycznej). Narzędzie jest dostępne natywnie dla systemów
@@ -39,7 +39,7 @@ add_executable(${EXEC_DEBUG} ${SOURCE_FILES} main.${lang_src_extension})
 
 if(EXISTS ${PROJECT_SOURCE_DIR}/test)
     set(EXEC_TEST ${PROJECT_ID}__test)
-    add_executable(${EXEC_TEST} ${SOURCE_FILES} ${SOURCES_FILES_TESTS} test/tests.cpp)
+    add_executable(${EXEC_TEST} ${SOURCE_FILES} ${SOURCES_FILES_TESTS} test/main_gtest.cpp)
 
     # == Uwzględnij pliki frameworku Google Testing Framework (GTF) ==
 
