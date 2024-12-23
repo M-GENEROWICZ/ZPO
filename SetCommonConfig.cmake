@@ -13,7 +13,7 @@ add_compile_options(-Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-erro
 # po nie-swojej pamięci statycznej). Narzędzie jest dostępne natywnie dla systemów
 # operacyjnych z rodziny UNIX.
 # REF: https://gcc.gnu.org/gcc-4.8/changes.html
-# Jeśli nie chcesz skorzystać z tego narzędzia, zakomentuj poniższą linię.
+# Jeśli nie chcesz skorzystać z tego narzędzia, zakomentuj poniższą linię
 set(USE_ASAN true)
 if ((DEFINED USE_ASAN) AND (USE_ASAN STREQUAL "true"))
     message(STATUS "Using AddressSanitizer (ASan).")

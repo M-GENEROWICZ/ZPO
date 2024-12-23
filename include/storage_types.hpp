@@ -1,3 +1,7 @@
+#ifndef STORAGE_TYPES_HPP
+#define STORAGE_TYPES_HPP
+
+
 //klasy IPackageStockpile, IPackageQueue, PackageQueue
 //typ wyliczeniowy PackageQueueType
 #include "package.hpp"
@@ -72,3 +76,6 @@ private:
     PackageQueueType package_queue_type_;
     std::list<Package> package_list_;
 };
+
+
+#endif /* STORAGE_TYPES_HPP*/

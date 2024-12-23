@@ -1,3 +1,6 @@
+#ifndef PACKAGE_HPP
+#define PACKAGE_HPP
+
 #include "types.hpp"
 #include <set>
 //klasa Package
@@ -19,3 +22,5 @@ private:
     static std::set<ElementID> assigned_IDs;
     static std::set<ElementID> freed_IDs;
 };
+
+#endif /* PACKAGE_HPP*/
