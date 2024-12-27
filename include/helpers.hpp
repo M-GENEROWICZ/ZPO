@@ -1,9 +1,19 @@
 //
 // Created by Marek Generowicz on 16/12/2024.
 //
+#ifndef HELPERS_HPP_
+#define HELPERS_HPP_
 
-#ifndef PROJEKT_HELPERS_HPP
-#define PROJEKT_HELPERS_HPP
+#include <functional>
+#include <random>
 
-#endif //PROJEKT_HELPERS_HPP
-//pomocnicze obiekty i funkcje globalne (np. generator liczb losowych)
+#include "types.hpp"
+
+extern std::random_device rd;
+extern std::mt19937 rng;
+
+extern double default_probability_generator();
+
+extern ProbabilityGenerator probability_generator;
+
+#endif /* HELPERS_HPP_ */

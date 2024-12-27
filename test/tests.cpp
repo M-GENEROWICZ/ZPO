@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include <storage_types.hpp>
+#include "nodes.hpp"
 
 TEST(WorkerTest, HasBuffer) {
 // Test scenariusza opisanego na stronie:
