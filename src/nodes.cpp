@@ -1,5 +1,6 @@
 #include "nodes.hpp"
 
+#include <iostream>
 using ReceiverPair = std::pair<IPackageReceiver* const, double>;
 
 void ReceiverPreferences::add_receiver(IPackageReceiver* r){
@@ -31,10 +32,12 @@ void ReceiverPreferences::remove_receiver(IPackageReceiver* r){
 
 IPackageReceiver* ReceiverPreferences::choose_receiver(){
     auto prob = generate_probability_();
+    std::cerr << "Generated probability: " << prob << std::endl;
     if(prob > 0 && prob <= 1){
         double distribution = 0.0;
         for (auto &rec: preferences_) {
             distribution = distribution + rec.second;
+            std::cerr << "Receiver ID: " << rec.first->get_id() << ", Distribution: " << distribution << std::endl;
             if (distribution < 0 || distribution > 1) {
                 return nullptr;
             }
@@ -43,14 +46,23 @@ IPackageReceiver* ReceiverPreferences::choose_receiver(){
             }
         }
     }
+    std::cerr << "No receiver chosen." << std::endl;
     return nullptr;
 }
 
 void PackageSender::send_package() {
-    if(buffer_.has_value()) { return;}
+    if(!buffer_.has_value()) {
+        std::cerr << "Buffer is empty, nothing to send." << std::endl;
+        return;
+    }
     IPackageReceiver* receiver = receiver_preferences_.choose_receiver();
-    receiver -> receive_package(std::move(*buffer_));
-    buffer_.reset();
+    if (receiver != nullptr) {
+        std::cerr << "Sending package to receiver with ID: " << receiver->get_id() << std::endl;
+        receiver->receive_package(std::move(*buffer_));
+        buffer_.reset();
+    } else {
+        std::cerr << "No valid receiver found." << std::endl;
+    }
 }
 
 void Ramp::deliver_goods(Time t) {

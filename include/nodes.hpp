@@ -25,30 +25,26 @@ public:
     virtual ElementID get_id() const = 0;
 };
 
-class ReceiverPreferences{
+class ReceiverPreferences {
 public:
     using preferences_t = std::map<IPackageReceiver*, double>;
     using const_iterator = preferences_t::const_iterator;
 
     ReceiverPreferences()
-            : generate_probability_([]() { return 0.0; }) {} // Domyślny generator zwraca 0.0
+            : generate_probability_([]() { return static_cast<double>(rand()) / RAND_MAX; }) {} // Default generator returns a value in (0, 1]
 
     ReceiverPreferences(ProbabilityGenerator pg)
             : generate_probability_(std::move(pg)) {}
 
-
-    const_iterator begin() const {return preferences_.cbegin(); }
-    const_iterator end() const {return preferences_.cend(); }
-    const_iterator cbegin() const {return preferences_.cbegin(); }
-    const_iterator cend() const {return preferences_.cend();}
+    const_iterator begin() const { return preferences_.cbegin(); }
+    const_iterator end() const { return preferences_.cend(); }
+    const_iterator cbegin() const { return preferences_.cbegin(); }
+    const_iterator cend() const { return preferences_.cend(); }
 
     void add_receiver(IPackageReceiver* r);
-
     void remove_receiver(IPackageReceiver* r);
-
     IPackageReceiver* choose_receiver();
-
-    preferences_t& get_preferences(){ return this -> preferences_;}
+    preferences_t& get_preferences() { return preferences_; }
 
 private:
     preferences_t preferences_;

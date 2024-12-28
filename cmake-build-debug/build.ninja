@@ -51,56 +51,56 @@ build cmake_object_order_depends_target_projekt__debug: phony || CMakeFiles/proj
 
 build CMakeFiles/projekt__debug.dir/src/factory.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/factory.cpp || cmake_object_order_depends_target_projekt__debug
   DEP_FILE = CMakeFiles/projekt__debug.dir/src/factory.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include"
   OBJECT_DIR = CMakeFiles/projekt__debug.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__debug.dir/src
 
 build CMakeFiles/projekt__debug.dir/src/helpers.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/helpers.cpp || cmake_object_order_depends_target_projekt__debug
   DEP_FILE = CMakeFiles/projekt__debug.dir/src/helpers.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include"
   OBJECT_DIR = CMakeFiles/projekt__debug.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__debug.dir/src
 
 build CMakeFiles/projekt__debug.dir/src/nodes.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/nodes.cpp || cmake_object_order_depends_target_projekt__debug
   DEP_FILE = CMakeFiles/projekt__debug.dir/src/nodes.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include"
   OBJECT_DIR = CMakeFiles/projekt__debug.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__debug.dir/src
 
 build CMakeFiles/projekt__debug.dir/src/package.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/package.cpp || cmake_object_order_depends_target_projekt__debug
   DEP_FILE = CMakeFiles/projekt__debug.dir/src/package.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include"
   OBJECT_DIR = CMakeFiles/projekt__debug.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__debug.dir/src
 
 build CMakeFiles/projekt__debug.dir/src/reports.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/reports.cpp || cmake_object_order_depends_target_projekt__debug
   DEP_FILE = CMakeFiles/projekt__debug.dir/src/reports.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include"
   OBJECT_DIR = CMakeFiles/projekt__debug.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__debug.dir/src
 
 build CMakeFiles/projekt__debug.dir/src/simulation.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/simulation.cpp || cmake_object_order_depends_target_projekt__debug
   DEP_FILE = CMakeFiles/projekt__debug.dir/src/simulation.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include"
   OBJECT_DIR = CMakeFiles/projekt__debug.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__debug.dir/src
 
 build CMakeFiles/projekt__debug.dir/src/storage_types.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/storage_types.cpp || cmake_object_order_depends_target_projekt__debug
   DEP_FILE = CMakeFiles/projekt__debug.dir/src/storage_types.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include"
   OBJECT_DIR = CMakeFiles/projekt__debug.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__debug.dir/src
 
 build CMakeFiles/projekt__debug.dir/main.cpp.o: CXX_COMPILER__projekt__debug_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/main.cpp || cmake_object_order_depends_target_projekt__debug
   DEP_FILE = CMakeFiles/projekt__debug.dir/main.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include"
   OBJECT_DIR = CMakeFiles/projekt__debug.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__debug.dir
@@ -114,7 +114,7 @@ build CMakeFiles/projekt__debug.dir/main.cpp.o: CXX_COMPILER__projekt__debug_uns
 # Link the executable projekt__debug
 
 build projekt__debug: CXX_EXECUTABLE_LINKER__projekt__debug_Debug CMakeFiles/projekt__debug.dir/src/factory.cpp.o CMakeFiles/projekt__debug.dir/src/helpers.cpp.o CMakeFiles/projekt__debug.dir/src/nodes.cpp.o CMakeFiles/projekt__debug.dir/src/package.cpp.o CMakeFiles/projekt__debug.dir/src/reports.cpp.o CMakeFiles/projekt__debug.dir/src/simulation.cpp.o CMakeFiles/projekt__debug.dir/src/storage_types.cpp.o CMakeFiles/projekt__debug.dir/main.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
   LINK_FLAGS = -fsanitize=address
   OBJECT_DIR = CMakeFiles/projekt__debug.dir
   POST_BUILD = :
@@ -133,63 +133,63 @@ build cmake_object_order_depends_target_projekt__test: phony || cmake_object_ord
 
 build CMakeFiles/projekt__test.dir/src/factory.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/factory.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/src/factory.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/src
 
 build CMakeFiles/projekt__test.dir/src/helpers.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/helpers.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/src/helpers.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/src
 
 build CMakeFiles/projekt__test.dir/src/nodes.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/nodes.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/src/nodes.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/src
 
 build CMakeFiles/projekt__test.dir/src/package.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/package.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/src/package.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/src
 
 build CMakeFiles/projekt__test.dir/src/reports.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/reports.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/src/reports.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/src
 
 build CMakeFiles/projekt__test.dir/src/simulation.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/simulation.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/src/simulation.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/src
 
 build CMakeFiles/projekt__test.dir/src/storage_types.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/src/storage_types.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/src/storage_types.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/src
 
 build CMakeFiles/projekt__test.dir/test/tests.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/test/tests.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/test/tests.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/test
 
 build CMakeFiles/projekt__test.dir/test/main_gtest.cpp.o: CXX_COMPILER__projekt__test_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/test/main_gtest.cpp || cmake_object_order_depends_target_projekt__test
   DEP_FILE = CMakeFiles/projekt__test.dir/test/main_gtest.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = CMakeFiles/projekt__test.dir
   OBJECT_FILE_DIR = CMakeFiles/projekt__test.dir/test
@@ -203,7 +203,7 @@ build CMakeFiles/projekt__test.dir/test/main_gtest.cpp.o: CXX_COMPILER__projekt_
 # Link the executable projekt__test
 
 build projekt__test: CXX_EXECUTABLE_LINKER__projekt__test_Debug CMakeFiles/projekt__test.dir/src/factory.cpp.o CMakeFiles/projekt__test.dir/src/helpers.cpp.o CMakeFiles/projekt__test.dir/src/nodes.cpp.o CMakeFiles/projekt__test.dir/src/package.cpp.o CMakeFiles/projekt__test.dir/src/reports.cpp.o CMakeFiles/projekt__test.dir/src/simulation.cpp.o CMakeFiles/projekt__test.dir/src/storage_types.cpp.o CMakeFiles/projekt__test.dir/test/tests.cpp.o CMakeFiles/projekt__test.dir/test/main_gtest.cpp.o | lib/libgmock.a lib/libgtest.a || lib/libgmock.a lib/libgtest.a
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
   LINK_FLAGS = -fsanitize=address
   LINK_LIBRARIES = lib/libgmock.a  lib/libgtest.a
   OBJECT_DIR = CMakeFiles/projekt__test.dir
@@ -363,7 +363,7 @@ build cmake_object_order_depends_target_gmock: phony || cmake_object_order_depen
 
 build googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: CXX_COMPILER__gmock_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googlemock/src/gmock-all.cc || cmake_object_order_depends_target_gmock
   DEP_FILE = googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o.d
-  FLAGS = -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=c++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = googletest-master/googlemock/CMakeFiles/gmock.dir
   OBJECT_FILE_DIR = googletest-master/googlemock/CMakeFiles/gmock.dir/src
@@ -377,7 +377,7 @@ build googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: CXX_
 # Link the static library lib/libgmock.a
 
 build lib/libgmock.a: CXX_STATIC_LIBRARY_LINKER__gmock_Debug googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o || lib/libgtest.a
-  ARCH_FLAGS = -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
+  ARCH_FLAGS = -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = googletest-master/googlemock/CMakeFiles/gmock.dir
   POST_BUILD = :
@@ -396,7 +396,7 @@ build cmake_object_order_depends_target_gmock_main: phony || cmake_object_order_
 
 build googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o: CXX_COMPILER__gmock_main_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googlemock/src/gmock_main.cc || cmake_object_order_depends_target_gmock_main
   DEP_FILE = googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o.d
-  FLAGS = -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=c++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googlemock" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = googletest-master/googlemock/CMakeFiles/gmock_main.dir
   OBJECT_FILE_DIR = googletest-master/googlemock/CMakeFiles/gmock_main.dir/src
@@ -410,7 +410,7 @@ build googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o
 # Link the static library lib/libgmock_main.a
 
 build lib/libgmock_main.a: CXX_STATIC_LIBRARY_LINKER__gmock_main_Debug googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o || lib/libgmock.a lib/libgtest.a
-  ARCH_FLAGS = -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
+  ARCH_FLAGS = -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = googletest-master/googlemock/CMakeFiles/gmock_main.dir
   POST_BUILD = :
@@ -499,7 +499,7 @@ build cmake_object_order_depends_target_gtest: phony || googletest-master/google
 
 build googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: CXX_COMPILER__gtest_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/src/gtest-all.cc || cmake_object_order_depends_target_gtest
   DEP_FILE = googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o.d
-  FLAGS = -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=c++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = googletest-master/googletest/CMakeFiles/gtest.dir
   OBJECT_FILE_DIR = googletest-master/googletest/CMakeFiles/gtest.dir/src
@@ -513,7 +513,7 @@ build googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: CXX_
 # Link the static library lib/libgtest.a
 
 build lib/libgtest.a: CXX_STATIC_LIBRARY_LINKER__gtest_Debug googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o
-  ARCH_FLAGS = -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
+  ARCH_FLAGS = -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = googletest-master/googletest/CMakeFiles/gtest.dir
   POST_BUILD = :
@@ -532,7 +532,7 @@ build cmake_object_order_depends_target_gtest_main: phony || cmake_object_order_
 
 build googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o: CXX_COMPILER__gtest_main_unscanned_Debug /Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni$ projekt/ZPO/googletest-master/googletest/src/gtest_main.cc || cmake_object_order_depends_target_gtest_main
   DEP_FILE = googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o.d
-  FLAGS = -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
+  FLAGS = -g -std=c++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Werror -Wconversion -Wpedantic -pedantic-errors -Wno-unused-private-field -fsanitize=address -fno-omit-frame-pointer
   INCLUDES = -I"/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest/include" -isystem "/Users/marekgenerowicz/Documents/Uczelnia/Semestr_III/ZPO/Ostatni projekt/ZPO/googletest-master/googletest"
   OBJECT_DIR = googletest-master/googletest/CMakeFiles/gtest_main.dir
   OBJECT_FILE_DIR = googletest-master/googletest/CMakeFiles/gtest_main.dir/src
@@ -546,7 +546,7 @@ build googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o
 # Link the static library lib/libgtest_main.a
 
 build lib/libgtest_main.a: CXX_STATIC_LIBRARY_LINKER__gtest_main_Debug googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o || lib/libgtest.a
-  ARCH_FLAGS = -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
+  ARCH_FLAGS = -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = googletest-master/googletest/CMakeFiles/gtest_main.dir
   POST_BUILD = :
